@@ -23,7 +23,7 @@ Kullanıcıların ürünleri inceleyebildiği, sepete ekleyebildiği ve sepet i�
 - Font Awesome
 - LocalStorage
 
-## 📸 Proje Görünümü
+![Cupcake Garden](./images/cupcake-website 1.png)
 
 Proje içerisinde modern tasarım, ürün kartları ve kullanıcı deneyimini geliştiren dinamik sepet işlemleri uygulanmıştır.
 
