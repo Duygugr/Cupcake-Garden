@@ -139,6 +139,7 @@ content.addEventListener("click",(e) =>{
 
         localStorage.setItem("cart",JSON.stringify(cart))
 
+        renderCart();
        
     }
 })
@@ -157,6 +158,7 @@ content.addEventListener("click",(e)=>{
 
         localStorage.setItem("cart",JSON.stringify(cart))
 
+        renderCart();
     }
 })
 
