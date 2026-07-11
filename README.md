@@ -39,5 +39,3 @@ HTML, CSS ve JavaScript kullanılarak kullanıcı etkileşimleri, dinamik içeri
 ## 👩‍💻 Geliştirici
 
 **Duygu Görmez**
-
-Frontend Developer
